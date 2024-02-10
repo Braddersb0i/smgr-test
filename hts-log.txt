@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 08 Feb 2024 08:05:35 at https://sites.google.com/view/semag-remastered/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sites.google.com/view/semag-remastered/ -O1 "C:\My Web Sites\Semag Remastered" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:05:45	Error: 	"Not Found" (404) at link https://sites.google.com/view/semag-remastered/games/"https://happygamer1450.github.io/Ruffle-Embedded/ruffle/ruffle.js"></script> (from https://sites.google.com/view/semag-remastered/games/worlds-hardest-game)
+08:05:45	Error: 	"Not Found" (404) at link https://sites.google.com/view/semag-remastered/games/"https://braddersb0i.github.io/Semag-Remastered-Storage/Worlds (from https://sites.google.com/view/semag-remastered/games/worlds-hardest-game)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 26 links scanned, 23 files written (2201328 bytes overall) [1158610 bytes received at 115861 bytes/sec], 1487198 bytes transferred using HTTP compression in 24 files, ratio 19%
+(2 errors, 0 warnings, 0 messages)
